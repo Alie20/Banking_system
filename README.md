@@ -36,7 +36,7 @@ To use and contribute to this project, follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/banking-system-cpp.git
+   git clone https://github.com/Alie20/Banking_system.git
    ```
 
 2. **Compile the Code:**
@@ -44,7 +44,7 @@ To use and contribute to this project, follow these steps:
    Use a C++ compiler to compile the source code.
 
    ```bash
-   g++ -o banking_system main.cpp account.cpp
+   g++ app.cpp class.cpp
    ```
 
 3. **Run the Program:**
@@ -52,7 +52,7 @@ To use and contribute to this project, follow these steps:
    Execute the compiled program.
 
    ```bash
-   ./banking_system
+   ./a.out
    ```
 
 ## 5. Usage<a name="usage"></a>
